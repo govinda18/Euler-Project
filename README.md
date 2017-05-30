@@ -1,2 +1,2 @@
 # Euler-Project
-Contains my CPP solutions to Euler Project
+Contains my solutions to Euler Project
